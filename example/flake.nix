@@ -74,7 +74,7 @@
                     debounce = "10ms";
                     paths = [
                       {
-                        path = "./**/*";
+                        path = ".";
                       }
                     ];
                   };
